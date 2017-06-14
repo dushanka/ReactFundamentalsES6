@@ -2,6 +2,10 @@
                           
  _course instruction and original materials provided by Liam McLennan_
 
+ <img src="https://facebook.github.io/react/img/logo.svg" height="75" align="left"/><img src="https://s.tmimgcdn.com/blog/wp-content/uploads/2016/02/08.jpg?x47994" height="75" align="left"/><img src="https://www.pluralsight.com/content/dam/pluralsight/newsroom/brand-assets/logos/pluralsight-logo-vrt-color-2.png" height="75"/>
+
+
+ 
  #### Getting Started
 
   1. Ensure Node and NPM are installed
