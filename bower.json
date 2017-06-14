@@ -16,7 +16,8 @@
     "babel-browser": null,
     "bootstrap": "^3.3.7",
     "prop-types": "https://github.com/facebook/prop-types.git",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "routie": "^0.3.2"
   },
   "overrides": {
     "bootstrap": {
