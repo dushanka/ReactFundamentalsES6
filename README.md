@@ -1,5 +1,5 @@
  ### React w/ES6+ project implementation for the PluralSight React Fundamentals course
- _provided by Clayton Long_                         
+                          
  _course instruction and original materials provided by Liam McLennan_
 
  #### Getting Started
@@ -31,11 +31,6 @@
 
   #### Other Notes
 
-  index.html is the main entry page for the application, it is suggested that you run it from a Web server. Webstorm
-  will automagically do this for you if you select 'Open In Browser' on index.html. Otherwise, you may want to use
-  something like Mongoose.
+  * index.html is the main entry page for the application, it is suggested that you run it from a Web server. Webstorm will automagically do this for you if you select 'Open In Browser' on index.html. Otherwise, you may want to use something like Mongoose.
 
-  The main application JavaScript file is app.babel.js. index.html uses babel-browser to do in browser ES6+ and JSX
-  transformations. Any JavaScript to be transformed must have a type="text/babel". The extension 'babel.js' lets gulp
-  know to to inject those files as scripts with type="text/babel". That's why app.babel.js works great with JSX and
-  ES6+ without having to be transpiled or converted to JavaScript before opening in a browser.
+  * The main application JavaScript file is app.babel.js. index.html uses babel-browser to do in browser ES6+ and JSX transformations. Any JavaScript to be transformed must have a type="text/babel". The extension 'babel.js' lets gulp know to to inject those files as scripts with type="text/babel". That's why app.babel.js works great with JSX and ES6+ without having to be transpiled or converted to JavaScript before opening in a browser.
