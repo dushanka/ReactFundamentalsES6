@@ -10,11 +10,11 @@
 
   #### Project Organization
 
-  ./src -> the front end application source code
-  ./src/css -> application css files
-  ./src/images -> application images
-  ./src/js -> application JavaScript
-  ./src/lib -> 3rd party front end application code (from bower)
+  * ./src -> the front end application source code
+  * ./src/css -> application css files
+  * ./src/images -> application images
+  * ./src/js -> application JavaScript
+  * ./src/lib -> 3rd party front end application code (from bower)
 
   #### Project Files
 
