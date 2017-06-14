@@ -1,0 +1,13 @@
+{
+  "name": "prop-types",
+  "homepage": "https://github.com/facebook/prop-types",
+  "_release": "8265af568f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8265af568f0cdcd998d0ca8b28f6fe472105f7ac"
+  },
+  "_source": "https://github.com/facebook/prop-types.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/facebook/prop-types.git"
+}
